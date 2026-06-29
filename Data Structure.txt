@@ -1,0 +1,76 @@
+Week 1: review of fundamentals and object oriented programming
+-review of PF and OOP concept
+-Primitive data types, user define data type
+-motivation, scope, aim, objectives
+-different data structures overview and their applications
+
+week 2: Algorithm analysis
+-Introduction to algorithms
+-Analysis of algorithms
+-Order of growth
+-classes of algorithm
+-asymptotic notation
+
+Week 3: Array
+-Introduction to array data structure: syntaxes, application along with operation
+-One dimensional array, two dimensional arrays, multi-dimensional array
+
+Week 4: LinkedList
+-linked list - introduction, types, applications
+-adding node at first, last position, nth position
+-traversing of linked list
+
+week 5: linked list (cont)
+-deletion operations on single linked list
+-Variations of linked lists
+-operations on doubly linked lists
+
+Week 6: stack
+-stack introduction, operations, applications
+-analysis of stack data structure
+-resursive function
+-expression evaluation, infix, postfix, prefix notation conversions
+
+week 7: queue
+-Introduction with operations
+-analysis of queue performance
+-variation of queue(circular, priority, etc)
+
+week 8: Tree
+-Tree- introduction, types, concepts, application
+-tree traversal (pre-order, post-order, in-order, level-order)
+-Binary search tree, insertion, searching and deletion in BST
+
+Week 10: Tree (continued...)
+-AVL tree - construction, insertion, deletion, rotation, etc
+-Heap Tree, type and operations
+-Huffman tree construction and applications
+
+Week 11: Graph
+-Introduction to graph, basic concept
+-directed and undirected graph, cycle, acyclic graph
+-depth first search and breadth first search
+
+week 12: searching algorithms
+-Introduction, basic concept
+-linear search algorithm with examples
+-Binary search algorithm with examples
+
+Week 13: Hashing
+-introduction, concepts with examples
+-problem in hashing(collisions of hashes)
+-Types of hashing algorithms
+
+week 14: Sorting algorithms
+-sorting algorithms - introduction
+-Insertion sort - concepts and example
+-selection sort - concepts and example
+-bubble sort - concepts and example
+-radix sort - concepts and example
+
+week 15: 
+-Shell sort - concept and example
+-merge sort - concept and example
+-quick sort - concepts and example
+-heap sort - concepts and example
+
